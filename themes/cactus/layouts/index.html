@@ -5,12 +5,12 @@
       {{ $length := (len .Site.Params.social) }}
       {{ range $index, $elem := .Site.Params.social}}
         <a class="icon" target="_blank" rel="noopener" href="{{ $elem.link }}">
-          <i class="fab fa-{{ lower $elem.name }}"></i>
+          <i class="{{ lower $elem.name }}"></i>
         </a>
         {{ if (lt (add $index 2) $length) }}
           {{- print " , " -}}
         {{ else if (lt (add $index 1) $length) }}
-          {{- print " and " -}}
+          {{- print " et " -}}
         {{ else }}
           {{- print "." -}}
         {{ end }}

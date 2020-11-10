@@ -26,8 +26,8 @@ disableKinds = ["taxonomyTerm"]
   # the value of name should be an valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
-    name = "discord"
+    name = "fab fa-discord"
     link = "https://discord.gg/vwXMRb7nCh"
   [[params.social]]
-    name = "wikipedia-w"
+    name = "fas fa-file-word"
     link = "https://wiki.crans.org/VieBdl/Ludothon"
