@@ -1,0 +1,33 @@
+baseURL = "https://ludothon.abys.se"
+languageCode = "fr-fr"
+title = "Ludothon"
+theme = "cactus"
+disableKinds = ["taxonomyTerm"]
+
+[markup]
+  [markup.tableOfContents]
+      endLevel = 4
+      ordered = false
+      startLevel = 2
+
+
+[params]
+  colortheme = "dark" # dark, light, white, or classic
+
+  # Home page settings
+  description = "Site internet du ludothon"
+
+  # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+  dateFormat = "02/01/2006"
+
+  [params.comments]
+    enabled = false
+
+  # the value of name should be an valid font awesome icon name (brands type)
+  # https://fontawesome.com/icons?d=gallery&s=brands
+  [[params.social]]
+    name = "discord"
+    link = "https://discord.gg/vwXMRb7nCh"
+  [[params.social]]
+    name = "wikipedia-w"
+    link = "https://wiki.crans.org/VieBdl/Ludothon"
