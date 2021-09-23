@@ -2,12 +2,10 @@
 title: Jeux d'ambiance
 menu:
   main:
-    weight: 2
+    weight: 3
 ---
 
-# Jeux d'ambiance
+# Jeux d'ambiances
+  - [Chaîne alimentaire](ambiance/chaine-alimentaire.md), le dimanche à 10h30
+  - [Diplomacy](ambiance/diplomacy), le samedi à 20h
 
-  - [Niche écologique](niche-ecologique), le vendredi à 18h
-  - [Chaine alimentaire](chaine-alimentaire), le samedi à 10h
-  - [Diplomacy](diplomacy), le samedi à 20h
-  - [Vaches aux enchères](vaches-aux-encheres), le dimanche à 13h

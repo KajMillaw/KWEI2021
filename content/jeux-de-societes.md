@@ -7,17 +7,8 @@ menu:
 
 # Jeux de sociétés
 
-Pour jouer à des jeux de sociétés, on utilise ces sites là :
-
-  - https://boardgamearena.com/, souvent abrégé BGA. Pour jouer à plein de jeux.
-    Inscription nécessaire, mais gratuite.
-  - https://www.horsepaste.com/, pour Codenames
-  - https://colonist.io/, pour Catan
-  - https://mjrt.net/play/ludothon, pour Majority
-
-
-Vu qu'il est difficile de naviguer dans la marée de jeux de sociétés de ces
-sites, voilà une liste non-exhaustive de reccomendation.
+Vu qu'il est difficile de naviguer dans la marée de jeux de sociétés
+, voilà une liste non-exhaustive de recomendation. Mais n'hesistez pas a vous perdre dans la ludoteque de la med, vous pouviez y trouver quelque tresors.
 
 ## 7 Wonders
 Jeu de développement aux règles plutôt simples mais hautement stratégique. Les

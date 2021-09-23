@@ -4,67 +4,58 @@ menu:
   main:
     weight: 1
 ---
-
+Le K-WEI est un week end d'intégration ludique organisé par le BDL. 
+Tu y trouveras entre autres,
 Le Ludothon est une semaine d'activités ludique organisé par le BDL. Tu y
 trouveras entre autres, des jeux de sociétés, des jeux de rôles, des projections
-de films, des jeux d'ambiances, des jeux videos …
+de films, des jeux d'ambiances, des jeux videos, des murders …
 
 # Planning
-{{< figure src="/images/planning.png" title="Planning du Ludothon" >}}
+{{< figure src="/images/planning.png" title="Planning du K-WEI" >}}
 
 # Activités
 
 ## Jeux de sociétés
 
-Pendant toute la durée du Ludothon, viens jouer avec nous à une large séléction
-de jeux de sociétés. Rendez vous sur les channels du discord prévu à cet effet.
+Pendant toute la durée du K-WEI, viens jouer avec nous à une large séléction
+de jeux de sociétés. Rendez vous à la MED () à n'importe quel heure du jour et de la soirée pour trouver des parties.
+
+## Murders
+  - [La soirée du Prince](murders/prince), le vendredi à 20h
+  - [L'Ecosysteme](murders/ecosysteme), le vendredi à 20h
+  - [Eden : une nouvelle ère pour la galaxie](murders/eden), le samedi à 10h
+  - [Documents Secrets](murders/documents-secrets), le samedi à 13h
+  - [Choix de Perséphone](murders/choix-de-persephone), le samedi à 13h
+  - [Mystères à Poudlard](murders/poudlard), le samedi à 14h
+  - [Zelda](murders/zelda), le samedi à 15h et le dimanche à 10h
+  - [Equipe de Nuit](murders/equipe-de-nuit), le samedi à 20h
+  - [Le Sorceleur](murders/sorceleur), le dimanche à 10h
+  - [Bordeciel](murders/bordeciel), le dimanche à 10h
+  - [Parapluies](murders/parapluies), le dimanche à 10h
+
 
 ## Jeux d'ambiances
-
-  - [Niche écologique](ambiance/niche-ecologique), le vendredi à 18h
-  - [Chaine alimentaire](ambiance/chaine-alimentaire), le samedi à 10h
+  - [Chaîne alimentaire](ambiance/chaine-alimentaire.md), le dimanche à 10h30
   - [Diplomacy](ambiance/diplomacy), le samedi à 20h
-  - [Vaches aux enchères](ambiance/vaches-aux-encheres), le dimanche à 13h
 
-## Projections
-
-### Ciné-club
-
-  - [Le parrain](projections/cine-club/le-parrain), le lundi à 21h
-  - [Lost in translation](projections/cine-club/lost-in-translation), le
-    vendredi à 21h
-
-### Animens
-
-  - [Les enfants du temps](projections/animens/les-enfants-du-temps), le mardi à
-    21h
-  - [Loin de moi, près de toi](projections/animens/loin-de-moi-pres-de-toi), le
-    dimanche à 21h
-
-### Nanarens
-
-  - [Turbulences 3](projections/nanarens/turbulences-3), le mercredi à 21h
-  - [Fusion core](projections/nanarens/fusion-core), le samedi à 21h
+## Projection
+  - [Flim Mystere](projections/mystere), le samedi après-midi
 
 
 ## Jeux de rôles
-
-  - [One shot : *Chroniques oubliées*](jdr/one-shot-chroniques-oubliees), le vendredi à 18h
-  - [One shot : *L'énigme du coffre*](jdr/one-shot-enigme-du-coffre), le samedi
-    à 14h
+  - [My Hero Academia](jdr/my-hero-academia), le samedi à 19h
 
 ## Jeux vidéos
+  - [Tournoi Smash Bros Ultimate](jeux-video/smash), le samedi à 13h
 
-  - [Tournoi de pokémon showdown random battle](jeux-videos/showdown-random-battle), le lundi à 19h
-  - [Tournoi de pokémon showdown classique](jeux-videos/showdown-classique), le
-    dimanche à 19h
-  - [Tournoi smash](jeux-videos/smash), le mercredi à 19h
+## Tournoi
+  - [Magic](Tournoi/magic), le vendredi à 20h
+  - [8 minutes pour un empire](Tournoi/8-minutes-pour-un-empire), ?
+  - [TrollBall](Tournoi/trollball), le samedi à 14h
+  - [Echecs](Tournoi/echecs), le samedi à 13h
 
-## Initiations
-
-  - [Bridge](initiations/bridge), le dimanche à 10h
-  - [Mahjong](initiations/mahjong), le lundi à 19h et le jeudi à 18h
-  - [Magic](initiations/magic), le mardi à 18h
-    - [Draft magic](initiations/magic/draft), le samedi à 14h
-  - [Atelier d'écriture](initiations/atelier-d-ecriture), le mardi à 18h
+## Autres
+  - [Jeu de figurines](Autres/figurines), le vendredi à 20h
+  - [Jeu Mystère](Autres/jeu-mystere), le samedi à 10h
+  - [Jonglage](Autres/jonglage), le samedi à 15h
 

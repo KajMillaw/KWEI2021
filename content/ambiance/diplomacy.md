@@ -1,17 +1,5 @@
 # Diplomacy
 
-Le samedi à partir de 20h jusqu'à très très tard dans la nuit.
+*Diplomacy* est un jeu de société individuel ou par groupe, les joueurs incarnant les sept grandes puissances européennes du début du XXe siècle, cherchant à devenir les maîtres du continent. Au gré des négociations, les joueurs forgent ou brisent des alliances puis donnent des ordres à leurs troupes. Le jeu se poursuit jusqu’à ce qu’un pays contrôle plus de la moitié du continent.
 
-Jeu de guerre sur plateau, sorte de Risk sans dés, qui laisse la part belle aux
-négociations entre joueurs. Créé dans les années 50 . Maintes fois réédité (4
-éditions différentes à la Med). Interminable.  Incroyable. Inimitable.
-
-  - 2-beaucoup de joueurs
-  - 3-8 heures
-
-A l’aube du XXe siècle, l’Europe se prépare pour un nouveau conflit. Alors que
-les armées se déplacent lentement et que des batailles dantesques se succèdent,
-les diplomates ne ménagent pas leurs efforts pour former et dissoudre leurs
-alliances, et s’assurer du contrôle des territoires les plus importants pour
-ravitailler leurs armées.
-
+Avertissement : le jeu est un peu long et il se prolongera pendant une bonne partie de la nuit. Mais n'ayez crainte, les joueurs les moins expérimentés seront regroupés en équipe avec ceux qui ont un peu plus d'expérience sur le jeu.
