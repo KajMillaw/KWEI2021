@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://kajmillaw.github.io/KWEI2021/"
 languageCode = "fr-fr"
 title = "KWEI 2021"
 theme = "cactus"
