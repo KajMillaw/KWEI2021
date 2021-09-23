@@ -1,6 +1,6 @@
-baseURL = "https://ludothon.abys.se"
+baseURL = ""
 languageCode = "fr-fr"
-title = "Ludothon"
+title = "KWEI 2021"
 theme = "cactus"
 disableKinds = ["taxonomyTerm"]
 
@@ -15,7 +15,7 @@ disableKinds = ["taxonomyTerm"]
   colortheme = "dark" # dark, light, white, or classic
 
   # Home page settings
-  description = "Site internet du ludothon"
+  description = "Site internet du KWEI"
 
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
   dateFormat = "02/01/2006"
@@ -26,8 +26,5 @@ disableKinds = ["taxonomyTerm"]
   # the value of name should be an valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
-    name = "fab fa-discord"
-    link = "https://discord.gg/vwXMRb7nCh"
-  [[params.social]]
-    name = "fas fa-file-word"
-    link = "https://wiki.crans.org/VieBdl/Ludothon"
+    name = "BDL"
+    link = "https://wiki.crans.org/VieBdl"
