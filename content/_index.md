@@ -11,6 +11,11 @@ de films, des jeux d'ambiances, des jeux videos, des murders …
 # Planning
 {{< figure src="/images/planningKWEI.jpg" title="Planning du K-WEI (Non definitif)" >}}
 
+# Inscription
+
+Pour s'inscrire c'est très simple, il suffit de remplir ce [formulaire](https://framaforms.org/inscription-k-wei-2021-1630864415)
+Tu vas recevoir un joli mail pour t'inscrire aux différentes activités. 
+
 # Activités
 
 ## Jeux de sociétés
