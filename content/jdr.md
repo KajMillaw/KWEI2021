@@ -6,4 +6,4 @@ menu:
 ---
 
 # Jeux de rôles
-  - [My Hero Academia](jdr/my-hero-academia), le samedi à 19h
+  - [My Hero Academia](my-hero-academia), le samedi à 19h

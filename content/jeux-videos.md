@@ -6,4 +6,4 @@ menu:
 ---
 
 # Jeux vidéos
-  - [Tournoi Smash Bros Ultimate](jeux-video/smash), le samedi à 13h
+  - [Tournoi Smash Bros Ultimate](smash), le samedi à 13h

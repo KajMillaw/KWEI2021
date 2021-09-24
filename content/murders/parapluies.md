@@ -1,4 +1,6 @@
 # Parapluies
+** Date : Le dimanche à 10h **
+** Durée  : 3h **
 Pitch :
 Vous êtes tous des parapluies. Que vous ayez été achetés dans un magasin
 de luxe ou récupérés à bas prix un jour de pluie inattendu, vous vous

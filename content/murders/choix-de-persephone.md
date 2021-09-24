@@ -1,4 +1,6 @@
 # Choix de Perséphone
+** Date : Le samedi à 13h **
+** Durée  : 6h **
 
 Pitch :
 

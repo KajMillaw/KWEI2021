@@ -5,9 +5,7 @@ menu:
     weight: 1
 ---
 Le K-WEI est un week end d'intégration ludique organisé par le BDL. 
-Tu y trouveras entre autres,
-Le Ludothon est une semaine d'activités ludique organisé par le BDL. Tu y
-trouveras entre autres, des jeux de sociétés, des jeux de rôles, des projections
+Tu y trouveras entre autres, des jeux de sociétés, des jeux de rôles, des projections
 de films, des jeux d'ambiances, des jeux videos, des murders …
 
 # Planning
@@ -49,13 +47,13 @@ de jeux de sociétés. Rendez vous à la MED () à n'importe quel heure du jour 
   - [Tournoi Smash Bros Ultimate](jeux-video/smash), le samedi à 13h
 
 ## Tournoi
-  - [Magic](Tournoi/magic), le vendredi à 20h
-  - [8 minutes pour un empire](Tournoi/8-minutes-pour-un-empire), ?
-  - [TrollBall](Tournoi/trollball), le samedi à 14h
-  - [Echecs](Tournoi/echecs), le samedi à 13h
+  - [8 minutes pour un empire](tournoi/8-minutes-pour-un-empire), ?
+  - [TrollBall](tournoi/trollball), le samedi à 14h
+  - [Echecs](tournoi/echecs), le samedi à 13h
 
 ## Autres
-  - [Jeu de figurines](Autres/figurines), le vendredi à 20h
-  - [Jeu Mystère](Autres/jeu-mystere), le samedi à 10h
-  - [Jonglage](Autres/jonglage), le samedi à 15h
+  - [Magic](autres/magic), le vendredi à 20h
+  - [Jeu de figurines](autres/figurines), le vendredi à 20h
+  - [Jeu Mystère](autres/jeu-mystere), le samedi à 10h
+  - [Jonglage](autres/jonglage), le samedi à 15h
 

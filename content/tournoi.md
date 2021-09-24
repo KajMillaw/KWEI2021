@@ -6,7 +6,6 @@ menu:
 ---
 
 # Tournoi
-  - [Magic](Tournoi/magic), le vendredi à 20h
-  - [8 minutes pour un empire](Tournoi/8-minutes-pour-un-empire), ?
-  - [TrollBall](Tournoi/trollball), le samedi à 14h
-  - [Echecs](Tournoi/echecs), le samedi à 13h
+  - [8 minutes pour un empire](8-minutes-pour-un-empire), ?
+  - [TrollBall](trollball), le samedi à 14h
+  - [Echecs](echecs), le samedi à 13h

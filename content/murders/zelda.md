@@ -1,4 +1,6 @@
 # Zelda
+** Date : Le dimanche à 10h **
+** Durée  : 4h **
 Approchez, approchez ! Le festival de Bourg-Langer vient d'ouvrir ses
 portes ! Venez vous amuser sur nos stands de tirs sur pestes Mojo, se
 détendre lors de spectacles, ou encore venir visiter l'observatoire !
