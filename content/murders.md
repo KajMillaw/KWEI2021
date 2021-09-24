@@ -15,5 +15,5 @@ menu:
   - [Zelda](zelda), le samedi à 15h jusqu'à 19h et le dimanche à 10h jusqu'à 14h
   - [Equipe de Nuit](equipe-de-nuit), le samedi à 20h jusqu'à tard (2-3h)
   - [Le Sorceleur](sorceleur), le dimanche à 10h jusqu'à 13h30
-  - [Bordeciel](bordeciel), le dimanche à 10h jusqu'à 13h30
+  - [Bordeciel](bordeciel), le dimanche à 11h jusqu'à 14h30
   - [Parapluies](parapluies), le dimanche à 10h jusqu'à 13h

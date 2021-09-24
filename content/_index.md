@@ -28,7 +28,7 @@ de jeux de sociétés. Rendez vous à la MED () à n'importe quel heure du jour 
   - [Zelda](murders/zelda), le samedi à 15h jusqu'à 19h et le dimanche à 10h jusqu'à 14h
   - [Equipe de Nuit](murders/equipe-de-nuit), le samedi à 20h jusqu'à tard (2-3h)
   - [Le Sorceleur](murders/sorceleur), le dimanche à 10h jusqu'à 13h30
-  - [Bordeciel](murders/bordeciel), le dimanche à 10h jusqu'à 13h30
+  - [Bordeciel](murders/bordeciel), le dimanche à 11h jusqu'à 14h30
   - [Parapluies](murders/parapluies), le dimanche à 10h jusqu'à 13h
 
 
