@@ -21,7 +21,7 @@ et de la soirée pour trouver des parties.
 
 ## Murders
   - [La soirée du Prince](murders/prince), le vendredi à 19h jusqu'à 23h
-  - [L'Ecosysteme](murders/ecosysteme), le vendredi à 20h jusqu'à 23h
+  - [L'Ecosystème](murders/ecosysteme), le vendredi à 20h jusqu'à 23h
   - [Eden : une nouvelle ère pour la galaxie](murders/eden), le samedi à 10h jusqu'à 14h
   - [Documents Secrets](murders/documents-secrets), le samedi à 13h jusqu'à 16h
   - [Choix de Perséphone](murders/choix-de-persephone), le samedi à 13h jusqu'à 19h
