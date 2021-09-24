@@ -1,8 +1,8 @@
 # 8 Minutes pour un empire
 
 ## Quand ?
-** Date : Le ?? **
-** Durée  : 1h30 **
+**Date : Le samedi à 17h30**
+**Durée  : 1h30**
 
 ## Description
 Un jeu rapide et efficace de stratégie avec un tout petit peu de hasard,

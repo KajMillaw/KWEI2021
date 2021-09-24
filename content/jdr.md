@@ -6,4 +6,4 @@ menu:
 ---
 
 # Jeux de rôles
-  - [My Hero Academia](my-hero-academia), le samedi à 19h jusqu'à 23h
+  - [My Hero Academia](my-hero-academia), le samedi de 19h jusqu'à 23h

@@ -25,41 +25,41 @@ de jeux de sociétés. Rendez vous à la MED (MC78) à n'importe quelle heure du
 et de la soirée pour trouver des parties.
 
 ## Murders
-  - [La soirée du Prince](murders/prince), le vendredi à 19h jusqu'à 23h
-  - [L'Ecosystème](murders/ecosysteme), le vendredi à 20h jusqu'à 23h
-  - [Eden : une nouvelle ère pour la galaxie](murders/eden), le samedi à 10h jusqu'à 14h
-  - [Documents Secrets](murders/documents-secrets), le samedi à 13h jusqu'à 16h
-  - [Choix de Perséphone](murders/choix-de-persephone), le samedi à 13h jusqu'à 19h
-  - [Mystères à Poudlard](murders/poudlard), le samedi à 14h jusqu'à 18h
-  - [Zelda](murders/zelda), le samedi à 15h jusqu'à 19h et le dimanche à 10h jusqu'à 14h
-  - [Equipe de Nuit](murders/equipe-de-nuit), le samedi à 20h jusqu'à tard (2-3h)
-  - [Le Sorceleur](murders/sorceleur), le dimanche à 10h jusqu'à 13h30
-  - [Bordeciel](murders/bordeciel), le dimanche à 11h jusqu'à 14h30
-  - [Parapluies](murders/parapluies), le dimanche à 10h jusqu'à 13h
+  - [La soirée du Prince](murders/prince), le vendredi de 19h jusqu'à 23h
+  - [L'Ecosystème](murders/ecosysteme), le vendredi de 20h jusqu'à 23h
+  - [Eden : une nouvelle ère pour la galaxie](murders/eden), le samedi de 10h jusqu'à 14h
+  - [Documents Secrets](murders/documents-secrets), le samedi de 13h jusqu'à 16h
+  - [Choix de Perséphone](murders/choix-de-persephone), le samedi de 13h jusqu'à 19h
+  - [Mystères à Poudlard](murders/poudlard), le samedi de 14h jusqu'à 18h
+  - [Zelda](murders/zelda), le dimanche de 10h jusqu'à 14h
+  - [Equipe de Nuit](murders/equipe-de-nuit), le samedi de 20h jusqu'à tard (2-3h)
+  - [Le Sorceleur](murders/sorceleur), le dimanche de 10h jusqu'à 13h30
+  - [Bordeciel](murders/bordeciel), le dimanche de 11h jusqu'à 14h30
+  - [Parapluies](murders/parapluies), le dimanche de 10h jusqu'à 13h
 
 
 ## Jeux d'ambiances
-  - [Chaîne alimentaire](ambiance/chaine-alimentaire.md), le dimanche à 10h30 jusqu'à 12h
-  - [Diplomacy](ambiance/diplomacy), le samedi à 20h jusqu'à tard
+  - [Chaîne alimentaire](ambiance/chaine-alimentaire), le dimanche de 10h30 jusqu'à 12h
+  - [Diplomacy](ambiance/diplomacy), le samedi de 20h jusqu'à tard
 
 ## Projection
   - [Film Mystère](projections/mystere), le samedi après-midi
 
 
 ## Jeux de rôles
-  - [My Hero Academia](jdr/my-hero-academia), le samedi à 19h jusqu'à 23h
+  - [My Hero Academia](jdr/my-hero-academia), le samedi de 19h jusqu'à 23h
 
 ## Jeux vidéos
-  - [Tournoi Smash Bros Ultimate](jeux-video/smash), le samedi à 13h jusqu'à 16h
+  - [Tournoi Smash Bros Ultimate](jeux-video/smash), le samedi de 13h jusqu'à 16h
 
 ## Tournoi
-  - [8 minutes pour un empire](tournoi/8-minutes-pour-un-empire), ?
-  - [TrollBall](tournoi/trollball), le samedi à 14h jusqu'à 17h
-  - [Echecs](tournoi/echecs), le samedi à 13h jusqu'à 18h
+  - [8 minutes pour un empire](tournoi/8-minutes-pour-un-empire), le samedi de 17h30 à 19h
+  - [TrollBall](tournoi/trollball), le samedi de 14h jusqu'à 17h
+  - [Echecs](tournoi/echecs), le samedi de 13h jusqu'à 18h
 
 ## Autres
-  - [Magic](autres/magic), le vendredi à 20h jusqu'à 23h
-  - [Jeu de figurines](autres/figurines), le vendredi à 20h jusqu'à 21h ou 22h
-  - [Jeu Mystère](autres/jeu-mystere), le samedi à 10h jusqu'à 13h
-  - [Jonglage](autres/jonglage), le samedi à 15h jusqu'à 16h
+  - [Magic](autres/magic), le vendredi de 20h jusqu'à 23h
+  - [Jeu de figurines](autres/figurines), le vendredi de 20h jusqu'à 21h
+  - [Jeu Mystère](autres/jeu-mystere), le samedi de 10h jusqu'à 13h
+  - [Jonglage](autres/jonglage), le samedi de 15h jusqu'à 16h
 
