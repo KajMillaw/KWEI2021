@@ -2,8 +2,8 @@
   <section id="about">
   {{ if isset .Site.Params "social" }}
       <p>Liens utiles :
-      {{ $length := (len .Site.Params.social) }}
-      {{ range $index, $elem := .Site.Params.social}}
+      {{ $length := (len .Site.params.social) }}
+      {{ range $index, $elem := .Site.params.social}}
         <a class="icon" target="_blank" rel="noopener" href="{{ $elem.link }}">
           <i class="{{ lower $elem.name }}"></i>
         </a>
