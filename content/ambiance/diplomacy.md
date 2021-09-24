@@ -1,7 +1,9 @@
 # Diplomacy
+
 ## Quand ?
 **Date : Le samedi à 20h**
 **Durée  : un moment**
+
 ## Description
 *Diplomacy* est un jeu de société individuel ou par groupe, les joueurs incarnant les sept grandes puissances européennes du début du XXe siècle, cherchant à devenir les maîtres du continent. Au gré des négociations, les joueurs forgent ou brisent des alliances puis donnent des ordres à leurs troupes. Le jeu se poursuit jusqu’à ce qu’un pays contrôle plus de la moitié du continent.
 

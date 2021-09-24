@@ -4,7 +4,7 @@ menu:
   main:
     weight: 1
 ---
-Le K-WEI est un week end d'intégration ludique organisé par le BDL. 
+Le K-WEI est un week end d'intégration ludique organisé par le BDL.
 Tu y trouveras entre autres, des jeux de sociétés, des jeux de rôles, des projections
 de films, des jeux d'ambiances, des jeux videos, des murders …
 
@@ -16,7 +16,8 @@ de films, des jeux d'ambiances, des jeux videos, des murders …
 ## Jeux de sociétés
 
 Pendant toute la durée du K-WEI, viens jouer avec nous à une large séléction
-de jeux de sociétés. Rendez vous à la MED () à n'importe quel heure du jour et de la soirée pour trouver des parties.
+de jeux de sociétés. Rendez vous à la MED (MC78) à n'importe quelle heure du jour
+et de la soirée pour trouver des parties.
 
 ## Murders
   - [La soirée du Prince](murders/prince), le vendredi à 19h jusqu'à 23h
@@ -37,7 +38,7 @@ de jeux de sociétés. Rendez vous à la MED () à n'importe quel heure du jour 
   - [Diplomacy](ambiance/diplomacy), le samedi à 20h jusqu'à tard
 
 ## Projection
-  - [Flim Mystere](projections/mystere), le samedi après-midi
+  - [Film Mystère](projections/mystere), le samedi après-midi
 
 
 ## Jeux de rôles

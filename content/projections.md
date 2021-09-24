@@ -6,4 +6,4 @@ menu:
 ---
 
 # Projection
-  - [Flim Mystere](mystere), le samedi après-midi
+  - [Film Mystère](mystere), le samedi après-midi
