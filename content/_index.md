@@ -9,7 +9,7 @@ Tu y trouveras entre autres, des jeux de sociétés, des jeux de rôles, des pro
 de films, des jeux d'ambiances, des jeux videos, des murders …
 
 # Planning
-{{< figure src="/images/planningKWEI.jpg" title="Planning du K-WEI (Non definitif pour le moment)" >}}
+{{< figure src="/images/planningKWEI.jpg" title="Planning du K-WEI (Non definitif)" >}}
 
 # Activités
 
