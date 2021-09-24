@@ -16,6 +16,10 @@ de films, des jeux d'ambiances, des jeux videos, des murders …
 Pour s'inscrire c'est très simple, il suffit de remplir ce [formulaire](https://framaforms.org/inscription-k-wei-2021-1630864415)
 Tu vas recevoir un joli mail pour t'inscrire aux différentes activités. 
 
+# Liens Utiles 
+  - [Discord Med](https://discord.gg/z7DuhED8wP)
+  - [Discord JDRM](https://discord.gg/W3Nju9YH3X)
+
 # Activités
 
 ## Jeux de sociétés
