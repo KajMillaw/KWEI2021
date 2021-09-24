@@ -1,8 +1,9 @@
 # Choix de Perséphone
-** Date : Le samedi à 13h **
-** Durée  : 6h **
-
-Pitch :
+## Quand  ?
+**Date : Le samedi à 13h**
+**Durée  : 6h**
+## Description
+*Pitch :*
 
 Il y a des millénaires, à l'aube de l'ère atomique, l'humanité a
 développé le robot Positronique. Avec l'aide de ces serviteurs
@@ -32,7 +33,7 @@ des siècles de séparation, Les Spacers et les Settlers arriveront-ils à
 se comprendre et à surmonter leurs différences et trouver un moyen de
 travailler ensemble ? Ou les deux mondes devront-ils être abandonnés ?
 
-La note d'intention :
+*La note d'intention :*
 
 Le choix de Perséphone est un GN rétro-SF pour 13 joueurs dans l'univers
 des célèbres histoires robotiques d'Isaac Asimov. Les joueurs joueront

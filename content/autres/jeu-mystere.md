@@ -1,6 +1,8 @@
 # Jeu Mystère
-** Date : Le samedi à 10h **
-** Durée  : 3h **
+## Quand ?
+**Date : Le samedi à 10h**
+**Durée  : 3h**
+## Description
 Malheureusement expliquer en quoi consiste exactement le jeu-mystère spoile le jeu... 
 Sachez simplement qu'il s'agit d'un jeu pour 3-6 joueurs et 10 PNJ qui permet de faire connaissance !
 N.B. ce n'est pas un jeu "troll", et ses règles précises seront révélées à tous les participants en cours de partie. 

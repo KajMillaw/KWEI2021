@@ -1,7 +1,9 @@
 # Parapluies
-** Date : Le dimanche à 10h **
-** Durée  : 3h **
-Pitch :
+## Quand ?
+**Date : Le dimanche à 10h**
+**Durée  : 3h**
+## Description
+*Pitch :*
 Vous êtes tous des parapluies. Que vous ayez été achetés dans un magasin
 de luxe ou récupérés à bas prix un jour de pluie inattendu, vous vous
 êtes tous retrouvés au fil des années ensemble dans le Pot à Parapluies
@@ -13,9 +15,9 @@ quand un message anonyme vous parvient, menaçant de faire tomber votre
 concours à l'eau, signé d'un symbole de soleil. Qui sera élu meilleur
 parapluie, et qu'adviendra-t-il du concours de la mousson ?
 
-Public :
+*Public :*
 Une murder courte et fun, pour enfants de trois à six ans (et
 normaliens), pour 8 joueurs.
 
-Note d'intention :
+*Note d'intention :*
 Fun,absence de dignité humaine.

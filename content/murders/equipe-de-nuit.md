@@ -1,7 +1,8 @@
 # Equipe de nuit 
-** Date : Le samedi à 20h **
-** Durée  : 6-7h **
-
+## Quand ?
+**Date : Le samedi à 20h**
+**Durée  : 6-7h**
+## Description
 La brigade des Friendly rangers, sorte de service public universel qui assure les permanences de
 nuit à Fieldville, USA, compte désormais quatre nouvelles recrues ! Ce soir sera pour eux l’occasion de
 découvrir le métier aux côtés de leurs nouveaux collègues. Rien de bien compliqué, il suffit de répondre

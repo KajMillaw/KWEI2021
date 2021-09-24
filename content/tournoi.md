@@ -7,5 +7,5 @@ menu:
 
 # Tournoi
   - [8 minutes pour un empire](8-minutes-pour-un-empire), ?
-  - [TrollBall](trollball), le samedi à 14h
-  - [Echecs](echecs), le samedi à 13h
+  - [TrollBall](trollball), le samedi à 14h jusqu'à 17h
+  - [Echecs](echecs), le samedi à 13h jusqu'à 18h

@@ -1,6 +1,9 @@
 # Zelda
-** Date : Le dimanche à 10h **
-** Durée  : 4h **
+## Quand ?
+**Date : Le dimanche à 10h**
+**Durée  : 4h**
+## Description
+*Pitch :*
 Approchez, approchez ! Le festival de Bourg-Langer vient d'ouvrir ses
 portes ! Venez vous amuser sur nos stands de tirs sur pestes Mojo, se
 détendre lors de spectacles, ou encore venir visiter l'observatoire !
@@ -17,7 +20,7 @@ l'effrayante araignée Gohma, son triomphe du temple de l'eau, ou encore
 sa victoire au lancer de cocottes. Quelle chance qu’il soit présent au
 festival !
 
-Note d'intention :
+*Note d'intention :*
 
 La majorité des éléments présents dans cette murder sont est inspiré de
 la licence vidéoludique The Legend of Zelda. Il n'est pas exclu

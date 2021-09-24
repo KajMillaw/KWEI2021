@@ -1,6 +1,8 @@
 # TrollBall
-** Date : Le samedi à 14h **
-** Durée  : 3h **
+## Quand ?
+**Date : Le samedi à 14h**
+**Durée  : 3h**
+## Description
 Tu as un problème à régler avec ton voisin ? Tu es jaloux que ton ami ai eu une meilleure note de tp que toi ? Alors crée toi une équipe de 6 joueurs, convainc le d'en faire une aussi et venez vous affronter au TrollBall !
 Armé d'une épée tu devras soit ramener une balle posée au milieu du terrain, dans ton camps, soit bien plus drôle, tuer tous tes adversaires !
 Venez nombreux et avec vos pires ennemis !

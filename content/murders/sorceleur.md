@@ -1,6 +1,8 @@
 # Le Sorceleur
-** Date : Le dimanche à 10h **
-** Durée  : 3h30 **
+## Quand ?
+**Date : Le dimanche à 10h**
+**Durée  : 3h30**
+## Description
  Le village de Dorian est, depuis quelques jours, victime d'attaque d'une bête inconnue et un mort est déjà à déplorer. Heureusement un sorceleur escortant un convoi est arrivé ce matin et a accepté le contrat."
 
 Et pour vendre un peu plus cette murder, je vous laisse quelques commentaires plus ou moins vrais:

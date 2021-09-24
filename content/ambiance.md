@@ -6,6 +6,6 @@ menu:
 ---
 
 # Jeux d'ambiances
-  - [Chaîne alimentaire](chaine-alimentaire), le dimanche à 10h30
-  - [Diplomacy](diplomacy), le samedi à 20h
+  - [Chaîne alimentaire](chaine-alimentaire), le dimanche à 10h30 jusqu'à 12h
+  - [Diplomacy](diplomacy), le samedi à 20h jusqu'à tard.
 
