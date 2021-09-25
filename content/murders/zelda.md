@@ -1,7 +1,7 @@
 # Zelda
 
 ## Quand ?
-**Date : Le dimanche à 10h**
+**Date : Le samedi et dimanche à 10h**
 **Durée  : 4h**
 
 ## Description

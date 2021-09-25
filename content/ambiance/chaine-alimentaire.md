@@ -1,7 +1,7 @@
 # Chaîne alimentaire
 
 ## Quand ?
-**Date : Le dimanche à 10h30**
+**Date : Le dimanche à 13h et 14h30**
 **Durée  : 1h30**
 
 ## Description

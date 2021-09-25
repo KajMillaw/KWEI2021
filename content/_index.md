@@ -9,7 +9,7 @@ Tu y trouveras entre autres, des jeux de sociétés, des jeux de rôles, des pro
 de films, des jeux d'ambiances, des jeux videos, des murders …
 
 # Planning
-{{< figure src="/images/planningKWEI.jpg" title="Planning du K-WEI (Non definitif)" >}}
+{{< figure src="/images/PlanningKWEI.jpg" title="Planning du K-WEI" >}}
 
 # Inscription
 
@@ -30,13 +30,13 @@ de jeux de sociétés. Rendez vous à la MED (MC78) à n'importe quelle heure du
 et de la soirée pour trouver des parties.
 
 ## Murders
-  - [La soirée du Prince](murders/prince), le vendredi de 19h jusqu'à 23h
+  - [La soirée du Prince](murders/prince), le vendredi de 19h30 jusqu'à 23h30
   - [L'Ecosystème](murders/ecosysteme), le vendredi de 20h jusqu'à 23h
   - [Eden : une nouvelle ère pour la galaxie](murders/eden), le samedi de 10h jusqu'à 14h
   - [Documents Secrets](murders/documents-secrets), le samedi de 13h jusqu'à 16h
   - [Choix de Perséphone](murders/choix-de-persephone), le samedi de 13h jusqu'à 19h
   - [Mystères à Poudlard](murders/poudlard), le samedi de 14h jusqu'à 18h
-  - [Zelda](murders/zelda), le dimanche de 10h jusqu'à 14h
+  - [Zelda](murders/zelda), le samedi et dimanche de 10h jusqu'à 14h
   - [Equipe de Nuit](murders/equipe-de-nuit), le samedi de 20h jusqu'à tard (2-3h)
   - [Le Sorceleur](murders/sorceleur), le dimanche de 10h jusqu'à 13h30
   - [Bordeciel](murders/bordeciel), le dimanche de 11h jusqu'à 14h30
@@ -44,11 +44,11 @@ et de la soirée pour trouver des parties.
 
 
 ## Jeux d'ambiances
-  - [Chaîne alimentaire](ambiance/chaine-alimentaire), le dimanche de 10h30 jusqu'à 12h
+  - [Chaîne alimentaire](ambiance/chaine-alimentaire), le dimanche de 13h jusqu'à 14h30 et de 14h30 jusqu'à 16h
   - [Diplomacy](ambiance/diplomacy), le samedi de 20h jusqu'à tard
-
+  - [Gros jeux de sociétés](ambiance/gros-jeux), le vendredi de 20h à 23h et le samedi de 16h à 19h
 ## Projection
-  - [Film Mystère](projections/mystere), le samedi après-midi
+  - [Film Mystère](projections/mystere), le samedi de 13h à 16h
 
 
 ## Jeux de rôles

@@ -1,7 +1,7 @@
 # La soirée du Prince
 
 ## Quand ?
-**Date : Le vendredi à 19h**
+**Date : Le vendredi à 19h30**
 **Durée  : 4h**
 
 ## Description
