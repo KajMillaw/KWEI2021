@@ -1,9 +1,8 @@
 # Jeu de Figurines
 
 ## Quand ?
-**Date : Le vendredi à 20h**
+**Date : Le vendredi à 20h et à 21h**
 **Durée  : 1h**
-Deuxième session possible juste après si beaucoup de demandes.
 
 ## Description
 Venez découvrir le jeu de figurines avec Song of Blades and Heroes.

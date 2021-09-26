@@ -34,7 +34,7 @@ et de la soirée pour trouver des parties.
   - [L'Ecosystème](murders/ecosysteme), le vendredi de 20h jusqu'à 23h
   - [Eden : une nouvelle ère pour la galaxie](murders/eden), le samedi de 10h jusqu'à 14h
   - [Documents Secrets](murders/documents-secrets), le samedi de 13h jusqu'à 16h
-  - [Choix de Perséphone](murders/choix-de-persephone), le samedi de 13h jusqu'à 19h
+  - [Le Choix de Perséphone](murders/choix-de-persephone), le samedi de 13h jusqu'à 19h
   - [Mystères à Poudlard](murders/poudlard), le samedi de 14h jusqu'à 18h
   - [Zelda](murders/zelda), le samedi et dimanche de 10h jusqu'à 14h
   - [Equipe de Nuit](murders/equipe-de-nuit), le samedi de 20h jusqu'à tard (2-3h)
@@ -46,9 +46,9 @@ et de la soirée pour trouver des parties.
 ## Jeux d'ambiances
   - [Chaîne alimentaire](ambiance/chaine-alimentaire), le dimanche de 13h jusqu'à 14h30 et de 14h30 jusqu'à 16h
   - [Diplomacy](ambiance/diplomacy), le samedi de 20h jusqu'à tard
-  - [Gros jeux de sociétés](ambiance/gros-jeux), le vendredi de 20h à 23h et le samedi de 16h à 19h
+  - [Gros jeux de sociétés](ambiance/gros-jeux), le vendredi de 20h jusqu'à 23h, le samedi de 16h jusqu'à 19h et le dimanche de 11h jusqu'à 14h 
 ## Projection
-  - [Film Mystère](projections/mystere), le samedi de 13h à 16h
+  - [Film Mystère](projections/mystere), le samedi de 13h jusqu'à 16h
 
 
 ## Jeux de rôles
@@ -64,7 +64,7 @@ et de la soirée pour trouver des parties.
 
 ## Autres
   - [Magic](autres/magic), le vendredi de 20h jusqu'à 23h
-  - [Jeu de figurines](autres/figurines), le vendredi de 20h jusqu'à 21h
+  - [Jeu de figurines](autres/figurines), le vendredi de 20h jusqu'à 21h et de 21h jusqu'à 22
   - [Jeu Mystère](autres/jeu-mystere), le samedi de 10h jusqu'à 13h
   - [Jonglage](autres/jonglage), le samedi de 15h jusqu'à 16h
 

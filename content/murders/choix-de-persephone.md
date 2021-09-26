@@ -1,4 +1,4 @@
-# Choix de Perséphone
+# Le Choix de Perséphone
 
 ## Quand  ?
 **Date : Le samedi à 13h**

@@ -6,4 +6,4 @@ menu:
 ---
 
 # Projection
-  - [Film Mystère](mystere), le samedi après-midi
+  - [Film Mystère](mystere), le samedi de 13h jusqu'à 16h
