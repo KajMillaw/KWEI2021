@@ -46,7 +46,7 @@ et de la soirée pour trouver des parties.
 ## Jeux d'ambiances
   - [Chaîne alimentaire](ambiance/chaine-alimentaire), le dimanche de 13h jusqu'à 14h30 et de 14h30 jusqu'à 16h
   - [Diplomacy](ambiance/diplomacy), le samedi de 20h jusqu'à tard
-  - [Gros jeux de sociétés](ambiance/gros-jeux), le vendredi de 20h jusqu'à 23h, le samedi de 16h jusqu'à 19h et le dimanche de 11h jusqu'à 14h 
+  - [Gros jeux de société](ambiance/gros-jeux), le vendredi de 20h jusqu'à 23h, le samedi de 16h jusqu'à 19h et le dimanche de 11h jusqu'à 14h 
 ## Projection
   - [Film Mystère](projections/mystere), le samedi de 13h jusqu'à 16h
 

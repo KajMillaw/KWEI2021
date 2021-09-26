@@ -1,4 +1,4 @@
-# Gros Jeux de Sociétés
+# Gros Jeux de Société
 
 ## Quand ?
 **Date : Le vendredi à 20h, le samedi à 16h et le dimanche à 11h**
