@@ -23,7 +23,7 @@ Tu vas recevoir un joli mail pour t'inscrire aux différentes activités.
 
 # Activités
 
-## Jeux de sociétés
+## Jeux de société
 
 Pendant toute la durée du K-WEI, viens jouer avec nous à une large séléction
 de jeux de sociétés. Rendez vous à la MED (MC78) à n'importe quelle heure du jour
@@ -42,19 +42,18 @@ et de la soirée pour trouver des parties.
   - [Bordeciel](murders/bordeciel), le dimanche de 11h jusqu'à 14h30
   - [Parapluies](murders/parapluies), le dimanche de 10h jusqu'à 13h
 
-
-## Jeux d'ambiances
+## Jeux d'ambiance
   - [Chaîne alimentaire](ambiance/chaine-alimentaire), le dimanche de 13h jusqu'à 14h30 et de 14h30 jusqu'à 16h
   - [Diplomacy](ambiance/diplomacy), le samedi de 20h jusqu'à tard
   - [Gros jeux de société](ambiance/gros-jeux), le vendredi de 20h jusqu'à 23h, le samedi de 16h jusqu'à 19h et le dimanche de 11h jusqu'à 14h 
+
 ## Projection
   - [Film Mystère](projections/mystere), le samedi de 13h jusqu'à 16h
 
-
-## Jeux de rôles
+## Jeux de rôle
   - [My Hero Academia](jdr/my-hero-academia), le samedi de 19h jusqu'à 23h
 
-## Jeux vidéos
+## Jeux vidéo
   - [Tournoi Smash Bros Ultimate](jeux-video/smash), le samedi de 13h jusqu'à 16h
 
 ## Tournoi
@@ -66,5 +65,5 @@ et de la soirée pour trouver des parties.
   - [Magic](autres/magic), le vendredi de 20h jusqu'à 23h
   - [Jeu de figurines](autres/figurines), le vendredi de 20h jusqu'à 21h et de 21h jusqu'à 22
   - [Jeu Mystère](autres/jeu-mystere), le samedi de 10h jusqu'à 13h
-  - [Jonglage](autres/jonglage), le samedi de 15h jusqu'à 16h
+  - [Jonglage](autres/jonglage), le samedi de 16h jusqu'à 17h
 

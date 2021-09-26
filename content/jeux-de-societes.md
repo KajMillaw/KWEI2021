@@ -1,11 +1,11 @@
 ---
-title: Jeux de sociétés
+title: Jeux de société
 menu:
   main:
     weight: 1
 ---
 
-# Jeux de sociétés
+# Jeux de société
 
 Puisqu'il est difficile de naviguer dans la marée de jeux de sociétés,
 voilà une liste non-exhaustive de recommandations. Mais n'hésistez pas à
