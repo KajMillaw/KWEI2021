@@ -1,5 +1,5 @@
 ---
-title: Jeux vidéos
+title: Jeux vidéo
 menu:
   main:
     weight: 6
