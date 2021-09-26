@@ -13,8 +13,8 @@ de films, des jeux d'ambiances, des jeux videos, des murders …
 
 # Inscription
 
-Pour s'inscrire c'est très simple, il suffit de remplir ce [formulaire](https://framaforms.org/inscription-k-wei-2021-1630864415)
-Tu vas recevoir un joli mail pour t'inscrire aux différentes activités. 
+Pour s'inscrire c'est très simple, il suffit de remplir ce [formulaire](https://framaforms.org/inscription-k-wei-2021-1630864415).
+Une fois le frama d'inscription rempli tu trouveras un lien pour t'inscrire aux différentes activités.
 
 # Liens Utiles 
 
