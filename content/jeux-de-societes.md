@@ -1,5 +1,5 @@
 ---
-title: Jeux de société
+title: Jeux de sociétés
 menu:
   main:
     weight: 1

@@ -1,5 +1,5 @@
 ---
-title: Jeux d'ambiance
+title: Jeux d'ambiances
 menu:
   main:
     weight: 3
