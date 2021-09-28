@@ -8,18 +8,23 @@ Le K-WEI est un week end d'intégration ludique organisé par le BDL.
 Tu y trouveras entre autres, des jeux de sociétés, des jeux de rôles, des projections
 de films, des jeux d'ambiances, des jeux videos, des murders …
 
-# Planning
+# Organisation 
+
+## Planning
 {{< figure src="/images/PlanningKWEI.jpg" title="Planning du K-WEI" >}}
 
-# Inscription
+## Inscription
 
 Pour s'inscrire c'est très simple, il suffit de remplir ce [formulaire](https://framaforms.org/inscription-k-wei-2021-1630864415).
 Une fois le frama d'inscription rempli tu trouveras un lien pour t'inscrire aux différentes activités.
 
-# Liens Utiles 
+## Liens Utiles 
 
   - [Discord Med](https://discord.gg/z7DuhED8wP)
   - [Discord JDRM](https://discord.gg/W3Nju9YH3X)
+  
+## Livret
+ Si tu n'as pas accès à internet à l'interieur de l'ENS mais que tu veux garder tout les informations sur le KWEI. Il y a une solution (c'est pas possible ? [ ...]), le magnifique livret KWEI disponible juste [ici](static/livret.pdf) 
 
 # Activités
 
