@@ -22,9 +22,9 @@ Une fois le frama d'inscription rempli tu trouveras un lien pour t'inscrire aux 
 
   - [Discord Med](https://discord.gg/z7DuhED8wP)
   - [Discord JDRM](https://discord.gg/W3Nju9YH3X)
-  
+
 ## Livret
- Si tu n'as pas accès à internet à l'interieur de l'ENS mais que tu veux garder tout les informations sur le KWEI. Il y a une solution (c'est pas possible ? [ ...]), le magnifique livret KWEI disponible juste [ici](static/livret.pdf) 
+ Si tu n'as pas accès à internet à l'interieur de l'ENS mais que tu veux garder tout les informations sur le KWEI. Il y a une solution (c'est pas possible ? [ ...]), le magnifique livret KWEI disponible juste [ici](livret.pdf) 
 
 # Activités
 
