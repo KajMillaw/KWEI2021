@@ -9,7 +9,7 @@ menu:
   - [La soirée du Prince](prince), le vendredi de 19h30 jusqu'à 23h30
   - [L'Ecosystème](ecosysteme), le vendredi de 20h jusqu'à 23h
   - [Eden : une nouvelle ère pour la galaxie](eden), le samedi de 10h jusqu'à 14h
-  - [Documents Secrets](documents-secrets), le samedi de 13h jusqu'à 16h
+  - [Documents Secrets](documents-secrets), le samedi de 15h jusqu'à 18h
   - [Le Choix de Perséphone](choix-de-persephone), le samedi de 13h jusqu'à 19h
   - [Mystères de Poudlard](poudlard), le samedi de 14h jusqu'à 18h
   - [Zelda](zelda),le samedi et dimanche de 10h jusqu'à 14h

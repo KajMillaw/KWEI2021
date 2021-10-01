@@ -1,7 +1,7 @@
 # Documents Secrets
 
 ## Quand ?
-**Date : Le samedi à 13h**
+**Date : Le samedi à 15h**
 **Durée  : 3h**
 
 ## Description

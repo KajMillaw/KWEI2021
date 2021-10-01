@@ -12,6 +12,8 @@ de films, des jeux d'ambiances, des jeux videos, des murders …
 
 ## Planning
 {{< figure src="/images/PlanningKWEI.jpg" title="Planning du K-WEI" >}}
+Et le planning des salles, l'accueil se fera dans la Kfet et ensuite les salle de l'ENS seront au 1ier étage du batiment EST (au dessus de la Kfet). Elles sont accessible par le même escalier que l'accès à la Med
+{{< figure src="/images/SalleKWEI.jpg" title="Salles du K-WEI" >}}
 
 ## Inscription
 
@@ -38,7 +40,7 @@ et de la soirée pour trouver des parties.
   - [La soirée du Prince](murders/prince), le vendredi de 19h30 jusqu'à 23h30
   - [L'Ecosystème](murders/ecosysteme), le vendredi de 20h jusqu'à 23h
   - [Eden : une nouvelle ère pour la galaxie](murders/eden), le samedi de 10h jusqu'à 14h
-  - [Documents Secrets](murders/documents-secrets), le samedi de 13h jusqu'à 16h
+  - [Documents Secrets](murders/documents-secrets), le samedi de 15h jusqu'à 18h
   - [Le Choix de Perséphone](murders/choix-de-persephone), le samedi de 13h jusqu'à 19h
   - [Mystères à Poudlard](murders/poudlard), le samedi de 14h jusqu'à 18h
   - [Zelda](murders/zelda), le samedi et dimanche de 10h jusqu'à 14h
@@ -48,7 +50,7 @@ et de la soirée pour trouver des parties.
   - [Parapluies](murders/parapluies), le dimanche de 10h jusqu'à 13h
 
 ## Jeux d'ambiance
-  - [Chaîne alimentaire](ambiance/chaine-alimentaire), le dimanche de 13h jusqu'à 14h30 et de 14h30 jusqu'à 16h
+  - [Chaîne alimentaire](ambiance/chaine-alimentaire), le dimanche de 12h30 jusqu'à 14h et de 14h jusqu'à 16h
   - [Diplomacy](ambiance/diplomacy), le samedi de 20h jusqu'à tard
   - [Gros jeux de société](ambiance/gros-jeux), le vendredi de 20h jusqu'à 23h, le samedi de 16h jusqu'à 19h et le dimanche de 11h jusqu'à 14h 
 
